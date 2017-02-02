@@ -9,7 +9,7 @@ If you are new, and have questions that may be interpreted as ridiculous or sill
 
 _general is for _very_ open discussion and is typically not monitored by admins. _general_dev is for on-topic development discussions.
 
-If you’re `looking for work`, let the _jobs_onsite and #_jobs_remote channel know so employers can reach out. If you’re a recruiter, please post positions within the #_jobs_onsite  channel. Feel free to spam this channel within reason. Make sure you indicate wether it is a local or remote position.
+If you’re "looking for work", let the _jobs_onsite and _jobs_remote channel know so employers can reach out. If you’re a recruiter, please post positions within the _jobs_onsite  channel. Feel free to spam this channel within reason. Make sure you indicate wether it is a local or remote position.
 
 Our community assets, including the site and logo, can be found at https://github.com/orgs/frontenddevelopers. If you would like to update or change anything feel free to make a pull request. We’re looking for an intrepid developer to redesign and rebuild the http://frontenddevelopers.org site. Join us in #fed_production to learn more.
 
