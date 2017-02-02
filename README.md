@@ -1,6 +1,6 @@
 *Welcome to the Frontend Developers community!* _Do not skim this announcement._
 
-We’re glad you’re here. Please start by introducing yourself in #_intro, that way you’ll appear as an active member. You can then select a channel from the left menu. A few of note are #feedback, #javascript, #ladydevs and #interesting. Without speaking in #_intro you’ll become inactive and will be removed after a month. This community strictly follows the *don’t be a jerk* policy and is enforced by all members. So be *kind*, *helpful*, *don’t spam*, *pitch your product*, and refrain from *sexual* or *bigoted* behavior.
+We’re glad you’re here. Please start by introducing yourself in #_intro, that way you’ll appear as an active member. You can then select a channel from the left menu. A few of note are #feedback, #javascript, #ladydevs and #interesting. Without speaking in #_intro you’ll become inactive and will be removed after a month. This community strictly follows the *don’t be a jerk* policy and is enforced by all members. So be *kind*, *helpful*, *don’t spam or pitch your product*, and refrain from *sexual* or *bigoted* behavior.
 
 If you are new, and have questions that may be interpreted as ridiculous or silly by senior developers, feel free to ask them in #_help. You’re more than welcome to use that channel as a means to help you grow as a dev without feeling judged.  If you’re trying grow your skill, answer questions in there. We also recommend finding a channel that is related to your specific question, like #angular to seek deeper assistance.
 
